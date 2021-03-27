@@ -1,0 +1,56 @@
+[
+    {
+        "user": {
+            "id": 1,
+            "name": "agus",
+            "email": "agus@example.com"
+        },
+        "txs": [
+            {
+                "id": 1,
+                "tx_date": "2020-01-01",
+                "tx_amount": 10,
+                "tx_type": "buy"
+            },
+            {
+                "id": 3,
+                "tx_date": "2020-02-01",
+                "tx_amount": 10,
+                "tx_type": "buy"
+            },
+            {
+                "id": 5,
+                "tx_date": "2020-03-01",
+                "tx_amount": 20,
+                "tx_type": "sell"
+            }
+        ]
+    },
+    {
+        "user": {
+            "id": 2,
+            "name": "asep",
+            "email": "asep@example.com"
+        },
+        "txs": [
+            {
+                "id": 2,
+                "tx_date": "2020-01-01",
+                "tx_amount": 10,
+                "tx_type": "sell"
+            },
+            {
+                "id": 4,
+                "tx_date": "2020-02-01",
+                "tx_amount": 10,
+                "tx_type": "sell"
+            },
+            {
+                "id": 6,
+                "tx_date": "2020-03-01",
+                "tx_amount": 20,
+                "tx_type": "buy"
+            }
+        ]
+    }
+]
